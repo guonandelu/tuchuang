@@ -1,0 +1,2 @@
+# tuchuang
+通过picgo上传typora图片到GitHub做图床
